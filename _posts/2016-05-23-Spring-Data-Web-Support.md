@@ -71,9 +71,7 @@ spring会为我们拼装好分页的对象
 
 #### 如果采用xml 配置
 
-`
-<bean class="org.springframework.data.web.config.SpringDataWebConfiguration" />
-`
+	<bean class="org.springframework.data.web.config.SpringDataWebConfiguration" />
 
 我在我的工程中加入了上面XML配置，报了下面的错
 
