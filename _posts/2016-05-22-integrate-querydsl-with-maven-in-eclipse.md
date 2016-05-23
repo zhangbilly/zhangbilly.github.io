@@ -2,7 +2,7 @@
 layout:     post
 title:      "Eclipse 中 Maven 整合 querydsl"
 subtitle:   "spring data JPA 更高级的用法"
-date:       2015-05-22
+date:       2016-05-22
 author:     "ZhangBilly"
 header-img: "img/in-post/querydsl/jean-cocteau-museum-menton.png"
 tags:
